@@ -48,3 +48,9 @@ output:
 > * This subtype discovery problem can be posed as a <span style="color: orange">biclustering problem of gene expression
 data</span> matrix, where data is partitioned into a checkerboard-like pattern 
 
+
+
+## 
+
+![](graphics/biclust-res-example.png) 
+
