@@ -1,0 +1,22 @@
+---
+title: "Convex [Clustering and Biclustering](https://en.wikipedia.org/wiki/Cluster_analysis) with application in R"
+author: Marta Karas
+date: 30 Sep 2016
+output:
+  revealjs::revealjs_presentation:
+    theme: night
+    highlight: espresso
+    center: true 
+---
+
+<style>
+    .reveal h4 {
+        text-align: left;
+    }
+</style>
+
+## My story with <span style="color: orange">`R` in USA</span> 
+
+> * `R` skill brought me to work in USA in Biostatistics Departments<br /><br /> 
+> * <span style="color: orange">Top #1 tool</span> used in academic Biostatsistics<br /><br />
+> * <span style="color: orange">Reproducibility & usability awareness</span> - rarely one can see a methodology paper published without corresponding `R` package<br /><br />  
