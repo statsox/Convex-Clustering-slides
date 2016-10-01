@@ -170,6 +170,4 @@ plot.lung200.heatmap.2("centroid", "'centroid' linkage")
 
 ## 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/J9M4G"><a href="//imgur.com/J9M4G"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+<img src="http://i.imgur.com/u6ZWGJZ.png" style="width: 600px;"/>
