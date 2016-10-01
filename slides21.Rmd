@@ -147,7 +147,7 @@ plot.lung200.heatmap.1(D.mat.row, D.mat.col, "Correlation dist")
 
 ## 
 
-<img src="graphics/hclust-dist-comparison.png" style="width: 900px;"/>
+<img src="http://i.imgur.com/mRk1JqU.png" style="width: 900px;"/>
 
 
 ## `hclust` - linkage function choice effect
