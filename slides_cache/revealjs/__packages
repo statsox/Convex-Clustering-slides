@@ -1,0 +1,12 @@
+base
+knitr
+MASS
+colorspace
+lattice
+biclust
+Matrix
+irlba
+foreach
+s4vd
+igraph
+cvxbiclustr

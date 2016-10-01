@@ -393,18 +393,8 @@ hmcols &lt;-<span class="st"> </span><span class="kw">colorRampPalette</span>(Yl
 
 
 <span class="co"># Construct weights and edge-incidence matrices</span>
-<span class="kw">library</span>(cvxbiclustr)</code></pre></div>
-<pre><code>## Loading required package: Matrix</code></pre>
-<pre><code>## Loading required package: igraph</code></pre>
-<pre><code>## 
-## Attaching package: 'igraph'</code></pre>
-<pre><code>## The following objects are masked from 'package:stats':
-## 
-##     decompose, spectrum</code></pre>
-<pre><code>## The following object is masked from 'package:base':
-## 
-##     union</code></pre>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">wts &lt;-<span class="st"> </span><span class="kw">gkn_weights</span>(X) <span class="co"># combines Gaussian kernel weights with k-nearest neighbor weights</span>
+<span class="kw">library</span>(cvxbiclustr)
+wts &lt;-<span class="st"> </span><span class="kw">gkn_weights</span>(X) <span class="co"># combines Gaussian kernel weights with k-nearest neighbor weights</span>
 w_row &lt;-<span class="st"> </span>wts$w_row  <span class="co"># Vector of weights for row graph</span>
 w_col &lt;-<span class="st"> </span>wts$w_col  <span class="co"># Vector of weights for column graph</span>
 E_row &lt;-<span class="st"> </span>wts$E_row  <span class="co"># Edge-incidence matrix for row graph</span>
