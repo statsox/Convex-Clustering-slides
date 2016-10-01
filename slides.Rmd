@@ -52,5 +52,14 @@ data</span> matrix, where data is partitioned into a checkerboard-like pattern
 
 ## 
 
-![](graphics/biclust-res-example.png) 
+![](graphics/biclust-res-example.png)
+
+
+## 
+
+fs
+
+## 
+
+![](graphics/biclust-res-example.png)
 
