@@ -1,1 +1,1 @@
-# Convex-Clustering-slides
+# Convex Clustering - presentation slides
