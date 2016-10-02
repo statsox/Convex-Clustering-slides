@@ -409,6 +409,7 @@ $(\gamma,\mathbf{W},\mathbf{\widetilde{W}},\mathbf{X} )$ => implication: <span s
 
 * Presentation topic was inspired by **Module 5: Unsupervised Methods for Statistical Machine Learning** of [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid) I attended at University of Washington in Seattle, WA in 2016.
 
+* A part of the images (convex clustering solution path) was copy-pasted from materials publicly available on GitHub ([link](https://github.com/SISBID/Module5/blob/gh-pages/clustering_slides-2016.pdf)), with the consent offered orally during the Module classes by its instructors, [Genevera Allen](http://www.stat.rice.edu/~gallen/) & [Yufeng Liu](http://www.unc.edu/~yfliu/). 
 
 ## Bibliography 
 
